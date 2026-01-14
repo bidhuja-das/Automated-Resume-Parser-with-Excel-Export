@@ -62,8 +62,8 @@ pip package manager
 
 Setup
 bash# Clone the repository
-git clone https://github.com/yourusername/resume-automation.git
-cd resume-automation
+git clone https://github.com/bidhuja_das/Automated-Resume-Parser_with_excel_Export.git
+cd Automated-Resume-Parser_with_excel_Export
 
 # Create virtual environment (recommended)
 python -m venv venv
