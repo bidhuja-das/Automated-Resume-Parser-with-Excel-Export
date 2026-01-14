@@ -190,28 +190,5 @@ python -m spacy download en_core_web_sm
 # 2. Run the system
 python app.py
 
-============================================================
-🤖 AUTOMATED RESUME PARSER SYSTEM
-============================================================
-
-📁 Setting up folders...
-✅ All folders created successfully!
-
-📊 Setting up Excel file...
-✅ Excel file created successfully!
-
-👀 MONITORING STARTED...
-📂 Watching folder: /path/to/resumes
-⏱️  Check interval: 5 seconds
-
-============================================================
-🔔 NEW RESUME DETECTED: john_doe_resume.pdf
-============================================================
-📄 Processing: john_doe_resume.pdf
-✅ Successfully parsed: john_doe_resume.pdf
-✅ Data added to Excel (Row 1)
-📁 Moved to: resumes/processed/
-✅ PROCESSING COMPLETE!
-============================================================
 
 Happy Automating! 🚀
