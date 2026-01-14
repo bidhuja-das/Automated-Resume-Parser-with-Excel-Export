@@ -170,12 +170,7 @@ Open a Pull Request
 
 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
-👨‍💻 Author
-Your Name
 
-GitHub: @yourusername
-LinkedIn: Your LinkedIn
-Email: your.email@example.com
 
 🙏 Acknowledgments
 
@@ -184,17 +179,6 @@ openpyxl - Excel file manipulation
 Watchdog - File system monitoring
 PyMuPDF - PDF processing
 
-⭐ Support
-If you find this project helpful, please give it a ⭐ on GitHub!
-📧 Contact
-For questions, suggestions, or support:
-
-Open an issue on GitHub
-Email: your.email@example.com
-Twitter: @yourhandle
-
-
-Made with ❤️ and Python
 
 🎯 Quick Start Guide
 bash# 1. Clone and setup
@@ -206,13 +190,6 @@ python -m spacy download en_core_web_sm
 # 2. Run the system
 python app.py
 
-# 3. Drop resumes in resumes/ folder and watch the magic! ✨
-```
-
-## 📸 Screenshots
-
-### Terminal Output
-```
 ============================================================
 🤖 AUTOMATED RESUME PARSER SYSTEM
 ============================================================
