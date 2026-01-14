@@ -92,8 +92,7 @@ Processed resumes are moved to resumes/processed/
 
 Stop the System
 Press Ctrl + C in the terminal
-📊 Excel Output Format
-Sr. No.Date & TimeFile NameNameEmailPhoneSkills12025-01-14 10:30:00john_doe.pdfJohn Doejohn@email.com+1-234-567-8900python, django, aws, docker22025-01-14 10:31:15jane_smith.docxJane Smithjane@email.com+1-987-654-3210java, spring, kubernetes
+
 🎯 Use Cases
 
 Recruitment Teams: Automatically process hundreds of resumes
@@ -149,11 +148,6 @@ Ensure PDF contains selectable text (not scanned images)
 🤝 Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-Fork the repository
-Create your feature branch (git checkout -b feature/AmazingFeature)
-Commit your changes (git commit -m 'Add some AmazingFeature')
-Push to the branch (git push origin feature/AmazingFeature)
-Open a Pull Request
 
 📝 Future Enhancements
 
@@ -167,9 +161,6 @@ Open a Pull Request
  Duplicate candidate detection
  Email notifications on processing
  Advanced ML models (BERT, Transformers)
-
-📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 
 🙏 Acknowledgments
